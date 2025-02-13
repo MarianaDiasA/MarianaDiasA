@@ -129,15 +129,16 @@ Olá! Sou a Mariana Dias Almeida, tenho 22 anos e nasci em Brasília, onde resid
 <img 
     align="left" 
     alt="Github Stats"
-    height="200" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MarianaDiasA&show_icons=true&theme=onedark&include_all_commits=true"
 />
+
 <img 
     align="left" 
     alt="Github Stats"
-    height="200" 
+    height="160" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaDiasA&layout=compact&theme=onedark&custom_title=Linguagens"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaDiasA&theme=onedark&custom_title=Linguagens&layout=compact"
 />
 
